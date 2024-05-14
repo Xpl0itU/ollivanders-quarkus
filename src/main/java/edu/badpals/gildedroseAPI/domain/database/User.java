@@ -5,6 +5,6 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
 
 @Entity
-@Table(name="t_users")
+@Table(name="T_USERS")
 public class User extends PanacheEntity {
 }
