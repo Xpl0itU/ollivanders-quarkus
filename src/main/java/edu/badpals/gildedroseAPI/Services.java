@@ -4,4 +4,7 @@ import jakarta.enterprise.context.ApplicationScoped;
 
 @ApplicationScoped
 public class Services {
+    public Services() {}
+
+
 }
